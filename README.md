@@ -25,6 +25,9 @@ To get started, follow these simple steps:
 
 The Koshur keyboard is designed for Windows operating systems. Ensure that your system meets the requirements for seamless installation and usage.
 
+## Issues
+The name of the keyboard is not shown properly when installed.
+
 ## Support and Feedback
 
 If you encounter any issues or have suggestions for improvement, feel free to reach out. Your feedback is valuable and helps enhance the keyboard for a better user experience.
