@@ -36,4 +36,4 @@ If you encounter any issues or have suggestions for improvement, feel free to re
 
 This layout design is used by the Kashmiri Wikipedia Contributors.
 
-Happy typing in Kashmiri! 🌐✨
+Happy typing in Kashmiri and consider contributing to Kashmiri Wikipedia!
